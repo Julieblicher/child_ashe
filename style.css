@@ -1,0 +1,19 @@
+/*
+ Theme Name:   Ashe Child
+ Theme URI:    http://example.com/twenty-fifteen-child/
+ Description:  Ashe Child Theme
+ Author:       Julie Blicher Jensen
+ Author URI:   http://example.com
+ Template:     ashe
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ Text Domain:  ashe-child
+*/
+
+body,
+.page-404 h2,
+.comment-author {
+  font-family: 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif';
+  font-size: 15px;
+  letter-spacing: 0px;
+}
